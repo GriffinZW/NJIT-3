@@ -121,22 +121,22 @@ body {
 
 /* ADD YOUR LIKE AND DISLIKE HOVER/MOUSEOVER CSS CODE HERE */
 .dislikes:hover {
-    background-color: lightpink;
-    color: red;
+    background-color: #fdd6d6;
+    color: #F65A5B;
 }
 
 .dislikes {
-    background-color: red;
-    color: white;
+    background-color: #f65a5b;
+    color: #ffffff;
 }
 
 /* likes button color */
 .likes:hover {
-    background-color: limegreen;
-    color: green;
+    background-color: #9edd87;
+    color: #ffffff;
 }
 
 .likes {
-    background-color: green;
-    color: white;
+    background-color: #008700;
+    color: #ffffff;
 }
