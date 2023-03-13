@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Scarface",
+            "iscore": 8.3,
+            "rating": "R",
+            "runtime": 170,
+            "released": [1983, 12, 9],
+            "country": "USA",
+            "posters": ["img/scarface.jpg", "img/scarface2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0086250",
+            "website": "https://www.uphe.com/movies/scarface-1983",
+            "likes": 891,
+            "dislikes": 179,
+            "posterindex": 0
+      },
+      {
+            "title": "Jurassic Park",
+            "iscore": 8.2,
+            "rating": "PG-13",
+            "runtime": 127,
+            "released": [1993, 6, 11],
+            "country": "USA",
+            "posters": ["img/jurassicpark.jpg", "img/jurassicpark2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0107290",
+            "website": "https://www.uphe.com/movies/jurassic-park",
+            "likes": 901,
+            "dislikes": 258,
+            "posterindex": 0
+      },
+      {
+            "title": "Jaws",
+            "iscore": 8.1,
+            "rating": "PG",
+            "runtime": 124,
+            "released": [1993, 6, 20],
+            "country": "USA",
+            "posters": ["img/jaws.jpg", "img/jaws2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0073195",
+            "website": "https://www.uphe.com/movies/jaws",
+            "likes": 838,
+            "dislikes": 301,
+            "posterindex": 0
       }
 ]
